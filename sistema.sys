@@ -1,0 +1,23 @@
+atendimento consultorio
+cadastro pacientes
+	rg .tel. cpf. end, anazminese do paciente, anamnese da família
+
+
+Estrutura de Sessão
+		nome do paciente
+		data
+		score - texto
+		assunto da sessão - texto
+		pontos importantes da sessão - 
+		Atividades da sessão
+		avaliação geral
+
+relatorio de sessão
+	nome
+	data
+
+exercicios terapeuticos
+	formularios vai paassar...
+
+
+	
